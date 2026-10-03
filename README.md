@@ -266,11 +266,8 @@ ProcessorResult result = processor.process(identity, operation);
 El `NationalBankWrapper` traduce esa llamada al método que ya existe en el procesador externo:
 
 ```java
-return nationalBank.postTransaction(
-    accountNumber,
-    kind,
-    amount,
-    counterparty
+return nationalBank.postTransaction(accountNumber,kind,
+    amount,counterparty
 );
 ```
 
