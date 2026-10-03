@@ -1,7 +1,7 @@
 # Ejercicio-7-Improve-Banking-Processor-Design
-# Problem 4: Multi-Identity Banking with Processors
+## Problem 4: Multi-Identity Banking with Processors
 
-## 4.3 Diseño mejorado con herencia y polimorfismo
+### Diseño mejorado con herencia y polimorfismo
 
 Este rediseño se basa en cinco ideas:
 
